@@ -3,4 +3,8 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Hello bug!");
     }
+
+    public static void merge() {
+        System.out.println("merge");
+    }
 }
